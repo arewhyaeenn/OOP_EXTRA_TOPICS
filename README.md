@@ -452,4 +452,4 @@ public class GCDClient
 
 # Lab Assignment
 
-Study for your final! Review previous labs. Make sure you understand how to throw exceptions and use `try`-`catch`, as these will be used on the final. 
+Study for your final! Review previous labs. Make sure you understand how to throw exceptions and use `try`-`catch`, as these will be used on the final.
